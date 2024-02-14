@@ -1,14 +1,29 @@
-.header
+body
 {
-    background-color: #cddbeb
+    background-color: #5c6b7b;
+}
+header
+{
+    background-color: #cddbeb;
+    margin: 0;
+    text-align: center;
+    width: 105%;
 
 }
 
+.headline
+{
+    text-align: center;
+    height: 350px;
+    margin-bottom: 50px;
+    width: auto;
+}
 
-
-.h1
+h1
 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40pt;
+    width: auto;
+
 }
