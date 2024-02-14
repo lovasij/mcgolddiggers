@@ -21,3 +21,6 @@ In 1972, Kahn moved to DARPA, where he worked as part of the Information Process
 Throughout his career, Kahn has been recognized with numerous awards, including the Presidential Medal of Freedom in 2005 and the Charles Stark Draper Prize in 2001 for his role in the development of the internet. In 2012, he was inducted into the Internet Hall of Fame, acknowledging his significant contributions to the advancement and proliferation of the internet.
 
 Kahn's legacy and contributions to the development of the internet and computer science make him one of the most prominent figures in the field, leaving a lasting impact on the world of technology.
+
+
+forrás:https://www.britannica.com/biography/Robert-Elliot-Kahn

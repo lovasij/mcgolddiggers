@@ -1,0 +1,30 @@
+Magyar:Licklider, 1915. március 11-én született St. Louisban, Missouri államban. Az amerikai pszichológus és számítástechnikai szakember úttörő munkájáért ismert az információs technológia területén. Tanulmányait a washingtoni egyetemen és a rochesteri egyetemen végezte, ahol pszichológiából és pszichoakusztikából szerzett több diplomát.
+
+Pályafutását a Harvard Egyetem Pszichoakusztikai Laboratóriumában kezdte, majd 1950-ben a MIT-re került előadóként. Később a Bolt Beranek és Newman (BBN) alelnökeként dolgozott, ahol vezette a BBN Időmegosztási Rendszer fejlesztését, ami jelentős előrelépést jelentett az időmegosztási számítástechnikában.
+
+1962-ben Licklidert nevezték ki az Egyesült Államok Védelmi Minisztériumának Fejlett Kutatási Projektek Ügynökségének (ARPA) Információfeldolgozási Technikai Hivatalának (IPTO) vezetőjévé, ahol kulcsfontosságú szerepet játszott az ARPANET, a modern internet előfutárának, megteremtésében és bevezetésében. Látomásos ötletei az internet alapjait teremtették meg, amely a mai összekapcsolt digitális világ alapját képezi.
+
+Az ARPA-nál töltött idő után Licklider az IBM-nél dolgozott, majd visszatért a MIT-re villamosmérnök professzorként. Aktívan részt vett a Project MAC-ben, egy úttörő kezdeményezésben az első számítógépes időmegosztási rendszerek terén.
+
+Az egyetemi munka mellett Licklider alapítója volt az Infocomnak, egy olyan cégtársulásnak, amelyet az interaktív fikciós számítógépes játékairól ismernek, megmutatva sokoldalú érdeklődését és vállalkozói szellemét.
+
+Licklider öröksége messze túlmutat szakmai sikerein. 1985-ben vonult vissza, és 1990-ben hunyt el, hagyva maga után maradandó nyomot a pszichológia, a számítástechnika és az internet technológia területén.
+
+
+
+
+angol:
+
+Licklider, born on March 11, 1915, in St. Louis, Missouri, was an American psychologist and computer scientist recognized for his groundbreaking contributions to information technology. He completed his education at Washington University and the University of Rochester, where he earned multiple degrees in psychology and psychoacoustics.
+
+Beginning his career at Harvard University's Psycho-Acoustic Laboratory, Licklider later transitioned to MIT as a lecturer in 1950. Subsequently, he joined Bolt Beranek and Newman (BBN) as Vice President, where he spearheaded the development of the BBN Time-Sharing System, a significant advancement in time-sharing computing technology.
+
+In 1962, Licklider assumed leadership of the Information Processing Techniques Office (IPTO) at ARPA, where he played a pivotal role in conceiving and implementing ARPANET, the revolutionary precursor to the modern internet. His visionary ideas laid the foundation for the interconnected digital landscape we know today.
+
+Following his tenure at ARPA, Licklider worked at IBM before returning to MIT as a professor of electrical engineering. He actively contributed to Project MAC, a groundbreaking initiative in early computer time-sharing systems.
+
+Beyond academia, Licklider co-founded Infocom, a company renowned for its pioneering interactive fiction computer games, showcasing his multidisciplinary interests and entrepreneurial spirit.
+
+Licklider's legacy extends far beyond his professional achievements. He retired in 1985 and passed away in 1990, leaving behind a lasting impact on the fields of psychology, computer science, and internet technology.
+
+forrás: https://en.wikipedia.org/wiki/J._C._R._Licklider
