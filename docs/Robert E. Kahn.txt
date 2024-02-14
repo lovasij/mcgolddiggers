@@ -1,0 +1,23 @@
+Magyar:
+
+Robert Kahn amerikai villamosmérnök és építész, született 1938. december 23-án Brooklynben, New Yorkban, az internet egyik úttörője. 2004-ben Kahn és Vinton Cerf egyaránt elnyerte az AM Turing-díjat, a számítástechnika legmagasabb kitüntetését, elismerve „úttörő munkájukat az internetezés terén, beleértve az internet alapvető kommunikációs protokolljainak tervezését és megvalósítását, TCP/IP, valamint az inspiráló vezető szerepüket a hálózatok fejlesztésében”.
+
+Kahn a City College of New York-ban szerezte mérnöki diplomáját 1960-ban, majd mesteri (1962) és doktori fokozatot (1964) szerzett elektromérnöki szakon a Princeton Egyetemen. Pályafutását a Bell Laboratories-nál kezdte, majd 1964 és 1966 között a Massachusetts Institute of Technology (MIT) elektromérnöki adjunktusa volt. Itt már kezdett foglalkozni a számítógépes hálózatok tervezésével és fejlesztésével.
+
+Kahn szakmai útjának egyik mérföldköve volt, amikor csatlakozott a Bolt Beranek & Newman (BB&N) nevű Cambridge-i mérnöki tanácsadó céghez. Itt részt vett az ARPANET tervezésében és kialakításában, ami egy újfajta számítógépes hálózat volt. Az ARPANET az internet elődje volt, és radikálisan eltérő architektúrát alkalmazott csomagváltás formájában, amely később az internet alapját képezte.
+
+1972-ben Kahn átigazolt a DARPA-hoz, ahol az Information Processing Techniques Office (IPTO) munkatársaként dolgozott. Itt folytatta munkáját a hálózatok fejlesztésében és az internet alapvető protokolljainak kidolgozásában. Kahn szorosan együttműködött Vinton Cerffel és másokkal a TCP/IP protokoll fejlesztésében, amely az internet alapját képezi.
+
+
+english:
+Robert Kahn, an American electrical engineer and architect, was born on December 23, 1938, in Brooklyn, New York, and is one of the pioneers of the internet. In 2004, both Kahn and Vinton Cerf were awarded the AM Turing Award, the highest honor in computer science, recognizing their "pioneering work in internet development, including the design and implementation of fundamental communication protocols for the internet, TCP/IP, and their inspired leadership in network development."
+
+Kahn earned his engineering degree from the City College of New York in 1960, followed by master's (1962) and doctoral degrees (1964) in electrical engineering from Princeton University. He began his career at Bell Laboratories and served as an electrical engineering adjunct at the Massachusetts Institute of Technology (MIT) from 1964 to 1966, where he began working on the design and development of computer networks.
+
+A significant milestone in Kahn's career was when he joined Bolt Beranek & Newman (BB&N), a Cambridge-based engineering consultancy, where he participated in the design and implementation of ARPANET, a novel computer network. ARPANET served as the precursor to the internet and employed a radically different architecture based on packet switching, which later formed the foundation of the internet.
+
+In 1972, Kahn moved to DARPA, where he worked as part of the Information Processing Techniques Office (IPTO). He continued his work in network development and the formulation of fundamental internet protocols. Kahn collaborated closely with Vinton Cerf and others in the development of the TCP/IP protocol, which underpins the internet.
+
+Throughout his career, Kahn has been recognized with numerous awards, including the Presidential Medal of Freedom in 2005 and the Charles Stark Draper Prize in 2001 for his role in the development of the internet. In 2012, he was inducted into the Internet Hall of Fame, acknowledging his significant contributions to the advancement and proliferation of the internet.
+
+Kahn's legacy and contributions to the development of the internet and computer science make him one of the most prominent figures in the field, leaving a lasting impact on the world of technology.
