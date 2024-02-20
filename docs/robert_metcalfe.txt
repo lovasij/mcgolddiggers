@@ -1,0 +1,28 @@
+magyar:
+
+Robert Metcalfe, 1946-ban született Brooklynben, New Yorkban, és egy úttörő útra lépett a számítástechnikában és mérnöki területen. 1969-ben végzett a Massachusetts Institute of Technology-n, két Bachelor of Science diplomával, majd továbbtanulmányait a Harvard Egyetemen folytatta, ahol 1973-ig Master of Science és Ph.D. fokozatot szerzett.
+
+Metcalfe jelentős hozzájárulásai a MIT Projekt MAC-jénél kezdődtek, ahol az egyetemet az ARPAnet hálózatra csatlakoztatni igyekezett, alapozva doktori értekezését. Bár kezdetben elutasították, kitartása elvezette a Xerox PARC-hoz, ahol továbbfejlesztette munkáját a hálózati protokollokon. Ebben az időszakban született meg David Boggs-szal az Ethernet ötlete, egy áttörés, ami forradalmasította a számítógépes hálózatokat.
+
+1979-ben Metcalfe társalapítója volt a 3Comnak, ami az Ethernetet felvirágoztatta a helyi hálózatok (LAN-ok) szabványaként. Vállalkozó szellemisége és műszaki érzéke sikeresen segítette elő a 3Com sikereit. Annak ellenére, hogy 1990-ben távozott, Metcalfe hatása továbbra is fennmaradt írással, előadásokkal és kockázati tőkével foglalkozva.
+
+2011-ben átállt az egyetemi tanításra, és tudását a Texasi Egyetem Cockrell Mérnöki Iskolájában osztotta meg, elősegítve ezzel az innovációt és vállalkozói szellemet. Hatása globálisan kiterjedt előadásokra és együttműködésekre, ami 2022-ben a MIT-hez való visszatérésével csúcsosodott ki, ahol továbbra is formálja a számítástechnika jövőjét.
+
+
+
+
+
+
+angol:
+
+Robert Metcalfe, born in 1946 in Brooklyn, New York, embarked on a pioneering journey in computer science and engineering. Graduating from the Massachusetts Institute of Technology in 1969 with dual Bachelor of Science degrees, he continued his academic pursuit at Harvard University, earning a Master of Science and a Ph.D. by 1973.
+
+Metcalfe's pivotal contributions began while at MIT's Project MAC, where he endeavored to connect the university to ARPAnet, laying the groundwork for his doctoral thesis. Despite initial rejection, his perseverance led him to Xerox PARC, refining his work on networking protocols. It was during this time that he and David Boggs conceived Ethernet, a breakthrough that revolutionized computer networking.
+
+In 1979, Metcalfe co-founded 3Com, propelling Ethernet into prominence as the standard for local area networks (LANs). His entrepreneurial spirit and technical acumen propelled 3Com to success. Despite departing in 1990, Metcalfe's impact persisted as he delved into writing, speaking engagements, and venture capitalism.
+
+Transitioning to academia in 2011, Metcalfe shared his wealth of knowledge at The University of Texas at Austin, fostering innovation and entrepreneurship. His influence extended globally through lectures and collaborations, culminating in his return to MIT in 2022, where he continues to shape the future of computer science.
+
+
+forrás: https://en.wikipedia.org/wiki/Robert_Metcalfe
+

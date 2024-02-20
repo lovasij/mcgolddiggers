@@ -1,0 +1,29 @@
+magyar:
+Roberts, becenevén Larry, 1946-ban született és Westportban, Connecticutben nőtt fel. Szülei, Elizabeth (Gilman) és Elliott John Roberts mindketten kémiai doktorátust szereztek. Fiatal korában azt mondják, hogy egy Tesla-tekercset épített, összerakott egy televíziót, és tervezett egy telefonhálózatot, amely tranzisztorokból épült szülei lánykémiai táborához.
+
+Roberts a Massachusetts Institute of Technology-n (MIT) szerezte meg a mérnöki diplomáját (1959), mesterdiplomáját (1960) és Ph.D.-jét (1963), mindegyiket elektromos mérnöki szakon. Doktori disszertációja a "Háromdimenziós testek gépi érzékelése" címet viselte, a számítógépes látás területén.
+
+Pályafutása a MIT Lincoln Laboratóriumában folytatódott, ahol az 1961-es "Interplanetáris Számítógép Hálózat" című jelentős tanulmányt elolvasva érdeklődni kezdett a számítógépes hálózatokat használó időmegosztás iránt.
+
+1967-ben, bár kezdetben vonakodva, Robert Taylor által kinevezett a ARPA Információfeldolgozási Technikai Irodájába (IPTO) programmenedzsernek, hogy az ARPANET programmenedzsere legyen. Roberts találkozott Paul Baran-nal 1967. februárjában, de nem beszéltek hálózatokról. Frank Westerveltet kérte fel az eredeti tervezési kérdések felderítésére egy hálózat számára.
+
+Roberts 1973-ban elhagyta az ARPA-t, hogy csatlakozzon a BBN új zsenge csomagkapcsolású technológiájának kereskedelmiesítéséhez a Telenet formájában, az Amerikai Egyesült Államok első FCC-licenc alapú nyilvános adathálózatában. 1973-tól 1980-ig volt a vezérigazgatója. 1978-ban a TCP/IP-datagram-orientált megközelítést felülről irányítottnak nevezte.
+
+Későbbi pályafutása során 1983-ban az elnök szerepét töltötte be a DHL Corporationnál. Akkoriban megjósolta, hogy a sávszélességek csökkennek a hangtömörítési technológiák hatására. A NetExpress-nél CEO volt 1983 és 1993 között. Az ATM Systems-nél 1993 és 1998 között elnök. A Caspian Networks elnöke és vezető technológiai igazgatója volt, de 2004 elején elhagyta a céget. Az Anagran Inc. alapítója és elnöke 2011-ig. Redwood Cityben, Kaliforniában, a Netmax vezérigazgatója volt 2012 szeptemberétől.
+
+angol:
+Roberts, nicknamed Larry, was born and raised in Westport, Connecticut, in 1946. His parents, Elizabeth (Gilman) and Elliott John Roberts, both held doctorates in chemistry. It's said that during his youth, he built a Tesla coil, assembled a television, and designed a telephone network built from transistors for his parents' Girl Scout camp.
+
+Roberts attended the Massachusetts Institute of Technology (MIT), where he received his bachelor's degree (1959), master's degree (1960), and Ph.D. (1963), all in electrical engineering. His Ph.D. thesis, titled "Machine Perception of Three-Dimensional Solids," focused on computer vision.
+
+His career continued at the MIT Lincoln Laboratory after earning his Ph.D. Roberts developed an interest in time-sharing using computer networks after reading J.C.R. Licklider's seminal 1961 paper on the "Intergalactic Computer Network."
+
+In 1967, despite initial reluctance, he was recruited by Robert Taylor in the ARPA Information Processing Techniques Office (IPTO) to become the program manager for the ARPANET. There, he met Paul Baran in February 1967 but did not initially discuss networks. Instead, he asked Frank Westervelt to explore initial design questions for a network.
+
+In 1973, Roberts left ARPA to join BBN's effort to commercialize packet-switching technology in the form of Telenet, the first FCC-licensed public data network in the United States. He served as its CEO from 1973 to 1980. Roberts joined the international effort to standardize a protocol for packet switching based on virtual circuits shortly before its finalization.
+
+Later in his career, Roberts served as President of DHL Corporation in 1983. He predicted that bandwidths would decrease due to voice compression technology. He held CEO positions at NetExpress from 1983 to 1993 and was president of ATM Systems from 1993 to 1998. Additionally, he was chairman and CTO of Caspian Networks, and later founded and chaired Anagran Inc. until 2011.
+
+Since September 2012, he has served as CEO of Netmax in Redwood City, California.
+
+forrás:https://en.wikipedia.org/wiki/Lawrence_Roberts_(scientist)
