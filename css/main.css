@@ -1,6 +1,7 @@
 body
 {
     background-color: #e0e0e0;
+    margin: 0px;
 }
 
 h1
@@ -8,4 +9,22 @@ h1
     font-size: 80px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    float: center;
+}
+.header
+{
+    background-image: url(../images/mainpage/16065f38-6fba-45b9-826d-2859565a4bab\ \(0-00-00-00\).jpg);
+    margin: 0%;
+    width: 100%;
+    height: 300px;
+    padding: 0%;
+    float: inline-start;
+}
+
+.center
+{
+    background-color: #5C6B7B;
+    margin: 0 auto;
+    width: 70%;
+
 }
