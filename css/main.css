@@ -167,10 +167,11 @@ table
 {
     background-color:  #E0E0E0;
     margin: 0 auto;
+    width: 90%;
 }
 td
 {
-    padding: 5px;
+    padding: 10px;
 }
 
 .tudosok
