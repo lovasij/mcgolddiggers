@@ -13,9 +13,9 @@ h1
 }
 .header
 {
-    background-image: url(../images/mainpage/16065f38-6fba-45b9-826d-2859565a4bab\ \(0-00-00-00\).jpg);
+    background-image: url('/images/mainpage/headline.jpg');
     margin: 0%;
-    width: 100%;
+    width: 1552px;
     height: 300px;
     padding: 0%;
     float: inline-start;
@@ -43,7 +43,7 @@ h1
     height: 60px;
     background: #cddbeb;
     color: #5C6B7B;
-    text-shadow: 2px -2px 8px black;
+    text-shadow: 2px 2px 6px black;
     font-size: 22px;
     display: flex;
     justify-content: center;
@@ -113,7 +113,7 @@ h1
     font-size: 20px;
     background: #fff;
     color: white;
-    text-shadow: 2px -2px 8px black;
+    text-shadow: 2px 2px 6px black;
     text-decoration: none;
     border-radius: 5px;
     padding: 10px 15px;
@@ -161,4 +161,9 @@ h1
 #en
 {
     background-image: url(../images/zaszlok/enflag.png);
+}
+
+table
+{
+    background-color:  #E0E0E0;
 }
