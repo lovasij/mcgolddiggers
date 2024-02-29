@@ -185,7 +185,12 @@ h1
 .scientists
 {
     background-color: #E0E0E0;
-    padding: 10px;
+    padding: 25px;
     text-align: center;
     border: 3px solid white;
+    border-radius: 25px
 }
+td:hover{
+    transform: scale(104%);
+    transition: transform .3s ease-in-out;
+  }
