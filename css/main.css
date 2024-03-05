@@ -179,6 +179,7 @@ h1
     margin: 0 auto;
     width: 90%;
     background-color: white;
+    height: 500px;
 
 }
 
@@ -190,7 +191,13 @@ h1
     border: 3px solid white;
     border-radius: 25px
 }
-td:hover{
+td:hover
+{
     transform: scale(104%);
     transition: transform .3s ease-in-out;
-  }
+}
+
+td
+{
+    size-adjust: 50%;
+}
