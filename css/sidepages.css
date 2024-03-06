@@ -1,6 +1,6 @@
 body
 {
-    background-color: #cddbeb;
+    background-color: #5C6B7B;
     margin: 0px;
 }
 .header
@@ -160,14 +160,13 @@ body
     margin: 0 auto;
     width: 90%;
     background-color: white;
-    height: 500px;
 
 }
 
 .scientists
 {
     background-color: #E0E0E0;
-    padding: 25px;
+    padding: 10px;
     text-align: center;
     border: 3px solid white;
     border-radius: 25px;
@@ -176,4 +175,21 @@ body
 {
     transform: scale(104%);
     transition: transform .3s ease-in-out;
+}
+
+.tudosok
+{
+    width: 30%;
+}
+
+.infok
+{
+    margin: 0 auto;
+    width: 90%;
+    background-color: white;
+}
+
+#munkassag
+{
+    margin: 0 auto;
 }
