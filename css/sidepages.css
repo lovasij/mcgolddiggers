@@ -172,7 +172,7 @@ body
     border: 3px solid white;
     border-radius: 25px;
 }
-td:hover
+.scientists:hover
 {
     transform: scale(104%);
     transition: transform .3s ease-in-out;
