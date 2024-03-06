@@ -218,3 +218,8 @@ td
     color: black;
     padding: 10px;
 }
+.szerver
+{
+    transform:translateX(300px);
+
+}
