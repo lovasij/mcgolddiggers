@@ -28,3 +28,5 @@ Beyond academia, Licklider co-founded Infocom, a company renowned for its pionee
 Licklider's legacy extends far beyond his professional achievements. He retired in 1985 and passed away in 1990, leaving behind a lasting impact on the fields of psychology, computer science, and internet technology.
 
 forrás: https://en.wikipedia.org/wiki/J._C._R._Licklider
+
+képhez szöveg: ember gép interfészek kapcsolata
