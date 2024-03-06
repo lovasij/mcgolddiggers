@@ -191,7 +191,7 @@ h1
     border: 3px solid white;
     border-radius: 25px
 }
-td:hover
+.scientists:hover
 {
     transform: scale(104%);
     transition: transform .3s ease-in-out;
@@ -200,4 +200,21 @@ td:hover
 td
 {
     size-adjust: 50%;
+}
+.idezet
+{
+    text-align: center;
+    color: white;
+
+}
+.alsoszoveg
+{
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+.forras
+{
+    color: black;
+    padding: 10px;
 }
