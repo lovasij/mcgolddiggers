@@ -20,6 +20,17 @@ body
     width: 100%;
 
 }
+h1
+{
+    font-size: 32pt;
+    font-family: Blacksword;
+    margin: 25px;
+}
+@font-face 
+{
+        font-family: Blacksword;
+        src: url(../fonts/blacksword/Blacksword.otf);
+}
 .box 
 {
     position: relative;
@@ -160,6 +171,7 @@ body
     margin: 0 auto;
     width: 90%;
     background-color: white;
+    padding: 25px;
 
 }
 
@@ -192,4 +204,15 @@ body
 #munkassag
 {
     margin: 0 auto;
+}
+
+.szoveg
+{
+    font-size: 14pt;
+    margin: 25px;
+}
+.forras
+{
+    color: black;
+    padding: 10px;
 }
