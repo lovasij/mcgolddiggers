@@ -12,6 +12,16 @@ body
     height: 300px;
     padding: 0%;
 }
+.header_en
+{
+    background: url("../images/mainpage/headline_en.jpg") no-repeat center center;
+    background-size: cover;
+    margin: 0%;
+    width: 100%;
+    height: 300px;
+    padding: 0%;
+}
+
 
 .center
 {
