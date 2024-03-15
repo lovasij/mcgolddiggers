@@ -6,7 +6,7 @@ Kahn a City College of New York-ban szerezte mérnöki diplomáját 1960-ban, ma
 
 Kahn szakmai útjának egyik mérföldköve volt, amikor csatlakozott a Bolt Beranek & Newman (BB&N) nevű Cambridge-i mérnöki tanácsadó céghez. Itt részt vett az ARPANET tervezésében és kialakításában, ami egy újfajta számítógépes hálózat volt. Az ARPANET az internet elődje volt, és radikálisan eltérő architektúrát alkalmazott csomagváltás formájában, amely később az internet alapját képezte.
 
-1972-ben Kahn átigazolt a DARPA-hoz, ahol az Information Processing Techniques Office (IPTO) munkatársaként dolgozott. Itt folytatta munkáját a hálózatok fejlesztésében és az internet alapvető protokolljainak kidolgozásában. Kahn szorosan együttműködött Vinton Cerffel és másokkal a TCP/IP protokoll fejlesztésében, amely az internet alapját képezi.
+
 
 
 english:
