@@ -63,7 +63,17 @@ body
     }
     
   }
+.alsoszoveg span
+{
+    display: block; opacity: 0;
+    animation: reveal .5s forwards var(--delay);
+}
 
+@keyframes reveal
+{
+    from {translate: 0 20px;}
+    to {translate: none; opacity: 1;}
+}
 .center
 {
     background-color: #E0E0E0;
