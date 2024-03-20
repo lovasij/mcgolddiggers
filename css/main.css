@@ -31,7 +31,7 @@ body
     margin: 0%;
     width: 100%;
     height: 300px;
-    padding: 0%;
+    margin: 0%;
 }
 
 h1
@@ -39,6 +39,7 @@ h1
     font-size: 60px;
     text-align: center;
     font-family: Truculenta;
+    padding: 0px;
 }
 
 .center
@@ -225,8 +226,11 @@ td
 {
     text-align: center;
     color: black;
-    padding: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
     font-family: Truculenta;
+    font-size: 15pt;
+    letter-spacing: 2pt;
 }
 .forras
 {
