@@ -286,3 +286,15 @@ a:visited a:hover
     transform: scale(101%);
     transition: transform .3s ease-in-out;
 }
+
+.szoveg span
+{
+    display: block; opacity: 0;
+    animation: reveal .5s forwards var(--delay);
+}
+
+@keyframes reveal
+{
+    from {translate: 0 20px;}
+    to {translate: none; opacity: 1;}
+}
