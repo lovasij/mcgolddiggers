@@ -278,3 +278,22 @@ td
     flex-direction: column;
 
 }
+
+.show
+{
+    opacity: 1;
+}
+
+.hidden
+{
+    opacity: 0;
+    transition: all 1s;
+    transform: translateY(-100%);
+}
+
+@media(prefers-reduced-motion)
+{
+    .hidden
+    {
+        transition: none;
+    }}
