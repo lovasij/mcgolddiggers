@@ -290,7 +290,6 @@ td
     height: 1px;
     opacity: 0 !important;
     transition: opacity 1s ease-in-out;
-    transform: translateY(-100px);
 }
 
 @media(prefers-reduced-motion)
@@ -298,4 +297,23 @@ td
     .hidden
     {
         transition: none;
-    }}
+    }
+}
+
+
+a:active
+{
+    color: #5C6B7B;
+}
+a:hover
+{
+    color: #cddbeb ;
+}
+a:visited
+{
+    color: #cddbeb;
+}
+a:link
+{
+    color: #5C6B7B ;
+}
