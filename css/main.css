@@ -276,6 +276,7 @@ td
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin: 25px;
 
 }
 
