@@ -61,7 +61,6 @@ h1
     height: 60px;
     background: #cddbeb;
     color: #5C6B7B;
-    text-shadow: 2px 2px 6px black;
     font-size: 22px;
     display: flex;
     justify-content: center;
@@ -199,11 +198,13 @@ h1
     text-align: center;
     border: 3px solid white;
     border-radius: 25px;
+    opacity: 0.6;
 }
 .scientists:hover
 {
     transform: scale(104%);
     transition: transform .3s ease-in-out;
+    opacity: 1;
 }
 
 .tudosok

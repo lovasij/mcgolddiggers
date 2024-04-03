@@ -249,7 +249,7 @@ td
 .idezet
 {
     text-align: center;
-    color: white;
+    color: #5C6B7B;
     font-family: Ananda;
     font-size: 20pt;
 
@@ -317,4 +317,11 @@ a:visited
 a:link
 {
     color: #5C6B7B ;
+}
+
+.sav
+{
+    background-color: #cddbeb;
+    padding: 10px;
+    
 }
